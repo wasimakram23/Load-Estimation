@@ -1,0 +1,9 @@
+F:\Program\C# program\Footing\Footing\bin\Debug\Footing.exe.config
+F:\Program\C# program\Footing\Footing\bin\Debug\Footing.exe
+F:\Program\C# program\Footing\Footing\bin\Debug\Footing.pdb
+F:\Program\C# program\Footing\Footing\obj\Debug\Footing.csprojResolveAssemblyReference.cache
+F:\Program\C# program\Footing\Footing\obj\Debug\Footing.Form1.resources
+F:\Program\C# program\Footing\Footing\obj\Debug\Footing.Properties.Resources.resources
+F:\Program\C# program\Footing\Footing\obj\Debug\Footing.csproj.GenerateResource.Cache
+F:\Program\C# program\Footing\Footing\obj\Debug\Footing.exe
+F:\Program\C# program\Footing\Footing\obj\Debug\Footing.pdb

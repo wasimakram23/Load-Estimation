@@ -1,0 +1,105 @@
+Calculation of footing
+
+Coloumn1 :
+
+Length = 12
+B = 12
+H = 20
+Load = 0
+Moment of Enertia = 8000
+Stiffness = 666.666666666667
+Distribution Factor = 0.612903225806452 0  0
+Fixed End Moment = 0  0
+Balance = -35935.997311828  0  0
+Carry Over = 0  0
+Balance = -3368.57457606718  0  0
+Carry Over = 0  0
+Balance = -600.722215503777  0  0
+Carry Over = 0  0
+Balance = -230.295804190742  0  0
+Carry Over = 0  0
+Balance = -41.0689455111316  0  0
+
+
+Beam2 :
+
+Length = 19
+B = 12
+H = 20
+Load = 1949
+Moment of Enertia = 8000
+Stiffness = 421.052631578947
+Distribution Factor = 0 0.387096774193548  0.244921629589059
+Fixed End Moment = 58632.4166666667  -58632.4166666667
+Balance = 0  -22696.4193548387  10992.1907219034
+Carry Over = 5496.09536095172  -11348.2096774194
+Balance = 0  -2127.52078488454  1960.25144006496
+Carry Over = 980.125720032478  -1063.76039244227
+Balance = 0  -379.403504528701  751.491571569789
+Carry Over = 375.745785784895  -189.701752264351
+Balance = 0  -145.449981594153  134.014453773166
+Carry Over = 67.0072268865832  -72.7249907970764
+Balance = 0  -25.9382813754515  51.3764359105515
+
+
+Coloumn3 :
+
+Length = 12
+B = 12
+H = 20
+Load = 0
+Moment of Enertia = 8000
+Stiffness = 666.666666666667
+Distribution Factor = 0.387792580182676 0  0
+Fixed End Moment = 0  0
+Balance = 17404.3019763471  0  0
+Carry Over = 0  0
+Balance = 3103.73144676951  0  0
+Carry Over = 0  0
+Balance = 1189.8616549855  0  0
+Carry Over = 0  0
+Balance = 212.189551807513  0  0
+Carry Over = 0  0
+Balance = 81.3460235250399  0  0
+
+
+Beam4 :
+
+Length = 12.67
+B = 12
+H = 20
+Load = 1028
+Moment of Enertia = 8000
+Stiffness = 631.412786108919
+Distribution Factor = 0 0.367285790228265  0.486420753952169
+Fixed End Moment = 13751.9757666667  -13751.9757666667
+Balance = 0  16483.9482017494  6689.24642075395
+Carry Over = 3344.62321037698  8241.97410087472
+Balance = 0  2939.60358020791  -4009.06725620173
+Carry Over = -2004.53362810086  1469.80179010395
+Balance = 0  1126.94079398784  -714.942094902612
+Carry Over = -357.471047451306  563.470396993922
+Balance = 0  200.968794134977  -274.083695335512
+Carry Over = -137.041847667756  100.484397067489
+Balance = 0  77.0443790292407  -48.8776961819969
+
+
+Coloumn5 :
+
+Length = 12
+B = 12
+H = 20
+Load = 0
+Moment of Enertia = 8000
+Stiffness = 666.666666666667
+Distribution Factor = 0.513579246047831 0  0
+Fixed End Moment = 0  0
+Balance = 7062.72934591271  0  0
+Carry Over = 0  0
+Balance = -4232.90684467299  0  0
+Carry Over = 0  0
+Balance = -754.859695201342  0  0
+Carry Over = 0  0
+Balance = -289.386701658411  0  0
+Carry Over = 0  0
+Balance = -51.6067008854917  0  0
